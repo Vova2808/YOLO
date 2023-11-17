@@ -11,6 +11,7 @@
 "dining table", "toilet", "tvmonitor", "laptop", "mouse", "remote", "keyboard", "cell phone",
 "microwave", "oven", "toaster", "sink", "refrigerator", "book", "clock", "vase", "scissors",
 "teddy bear", "hair dryer", "toothbrush
+<h1> </h1>
 <img src="https://habrastorage.org/r/w1560/webt/uo/zs/tj/uozstjspdifxpslvqyuurauxs2g.png">
 
 # INSTALL PIP
