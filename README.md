@@ -16,6 +16,7 @@
 
 # INSTALL PIP
 
+Команды для установки библиотек
 pip install ultrayolo <br />
 pip install ultralytics <br />
 pip install opencv-python <br />
