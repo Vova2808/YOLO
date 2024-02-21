@@ -14,7 +14,7 @@
 <h1> </h1>
 <img src="https://habrastorage.org/r/w1560/webt/uo/zs/tj/uozstjspdifxpslvqyuurauxs2g.png">
 
-# Докуиентация
+# Документация
 
 <p dir="auto"><a href="https://github.com/ultralytics/ultralytics">Ultralytics YOLOv8  </a> , разработанный компанией  <a href="https://ultralytics.com" rel="nofollow"> Ultralytics  </a> , 
   это передовая, современная (SOTA) модель, основанная на успехе предыдущих версий YOLO и представляющая 
